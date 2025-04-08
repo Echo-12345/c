@@ -57,6 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "p5709,c": "cpp"
+    "p5709,c": "cpp",
+    "P5729.C": "cpp",
+    "stdio.h": "c"
   }
 }
